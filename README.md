@@ -4,6 +4,7 @@
 
 **Objectivo:**
 > Fazer o primeiro push
+
 > Documentar a realização do primeiro push usando README
 
 Passos necessários:
@@ -14,10 +15,10 @@ Passos necessários:
 3. Enviar para o repositório local git
    * git commit "adicionando ficheiro readme"
 4. Enviar para o repositório remoto
-4.1 Indicar repositorio remoto
-4.1.1 git remote add origin https://github.com/jorgelucas77/Git_Projeto1.git
-4.2 Enviar
-4.2.1 git push -u origin master
+   * Indicar repositorio remoto
+     * git remote add origin https://github.com/jorgelucas77/Git_Projeto1.git
+   * Enviar
+     * git push -u origin master
 
 
 *Autor* [jorge lucas] (mailto:jorgelucas77@gmail.com)
