@@ -13,7 +13,7 @@ Passos necessários:
 2. Iniciar controlode versão
    * git add (filename)	
 3. Enviar para o repositório local git
-   * git commit "adicionando ficheiro readme"
+   * git commit -m "adicionando ficheiro readme"
 4. Enviar para o repositório remoto
    * Indicar repositorio remoto
      * git remote add origin https://github.com/jorgelucas77/Git_Projeto1.git
